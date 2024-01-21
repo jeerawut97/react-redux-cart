@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.085b58e2.css",
-    "main.js": "/static/js/main.0426df91.js",
-    "index.html": "/index.html",
-    "main.085b58e2.css.map": "/static/css/main.085b58e2.css.map",
-    "main.0426df91.js.map": "/static/js/main.0426df91.js.map"
+    "main.css": "/react-redux-cart/static/css/main.085b58e2.css",
+    "main.js": "/react-redux-cart/static/js/main.0426df91.js",
+    "index.html": "/react-redux-cart/index.html",
+    "main.085b58e2.css.map": "/react-redux-cart/static/css/main.085b58e2.css.map",
+    "main.0426df91.js.map": "/react-redux-cart/static/js/main.0426df91.js.map"
   },
   "entrypoints": [
     "static/css/main.085b58e2.css",
